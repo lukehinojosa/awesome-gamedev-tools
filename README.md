@@ -1,13 +1,13 @@
 # Table of Contents
-[Jump To Gamedev Tools](#a-list-of-different-game-tools-and-what-they-offer.)
+[Jump To Gamedev Tools](#a-list-of-different-game-tools-and-what-they-offer)
 <br />
-[Jump To Game Development Career Pathways](#game=development-career-pathways)
+[Jump To Game Development Career Pathways](#game-development-career-pathways)
 <br />
 [Jump To Game Programming Disciplines](#game-programming-disciplines)
 <br />
 
 
-# A list of different game tools and what they offer.
+# A list of different game tools and what they offer
 <br />
 <br />
 <br />
