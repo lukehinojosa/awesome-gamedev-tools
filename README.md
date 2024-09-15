@@ -93,6 +93,8 @@ A game producer oversees the development process of a video game, managing the p
 ## 5. Game Programmer
 A game programmer is responsible for writing the code that brings a video game to life. They implement the game's mechanics, physics, controls, and artificial intelligence, ensuring everything functions as intended. Programmers work closely with designers, artists, and audio engineers to integrate assets and features into the game engine. They also troubleshoot and optimize the code to improve performance and fix bugs, making sure the game runs smoothly on different platforms.
 
+<br />
+
 # Game Programming Disciplines
 
 <br />
