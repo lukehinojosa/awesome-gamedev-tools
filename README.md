@@ -7,7 +7,9 @@
 <br />
 [Jump To Game Programming Disciplines](#game-programming-disciplines)
 <br />
-
+<br />
+[Jump To Common Game Industry Issues](#common-game-industry-issues)
+<br />
 
 # A list of different game tools and what they offer
 <br />
@@ -133,3 +135,19 @@ A game programmer is responsible for writing the code that brings a video game t
 ## 7. Game Networking
 
 ### 1. Network Programmer
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# Common Game Industry Issues
+
+## 1. Poor Leadership
+## 2. Bad Time Management
+## 3. Communication in the Workplace
+## 4. Finance Distribution and Management
