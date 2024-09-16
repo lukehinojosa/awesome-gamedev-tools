@@ -147,7 +147,7 @@ A game programmer is responsible for writing the code that brings a video game t
 
 # Common Game Industry Issues
 
-## 1. Poor Leadership
-## 2. Bad Time Management
-## 3. Communication in the Workplace
-## 4. Finance Distribution and Management
+### 1. Poor Leadership
+### 2. Bad Time Management
+### 3. Communication in the Workplace
+### 4. Finance Distribution and Management
