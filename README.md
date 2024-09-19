@@ -103,20 +103,20 @@ A game programmer is responsible for writing the code that brings a video game t
 <br />
 <br />
 
-## 1. Game Engine Programmer
+## 1. Game Engine Programming
 
-### 1. Physics Engine Programmer
-### 2. Graphics Engine Programmer
+### 1. Physics Engineer
+### 2. Graphics Engineer
 <br />
 
 ## 2. Artificial Intelligence
 
-### 1. AI Programmer
+### 1. AI Engineer
 <br />
 
 ## 3. Digitized Sound
 
-### 1. Sound Programmer
+### 1. Sound Engineer
 <br />
 
 ## 4. Advanced Physics
@@ -154,4 +154,3 @@ A game programmer is responsible for writing the code that brings a video game t
 ### 5. Scope Creep
 * A quality game requires a good balance of scope, budget, and time.
 * Features can be catagorized into either: Need, Desirable, or Ideal
-* 
